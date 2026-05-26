@@ -29,7 +29,11 @@ Session Management
 
 # Resultados Obtenidos
 Identificación de alertas LOW y MEDIUM
+
 Detección de formularios sin protección Anti-CSRF visible
+
 Análisis de tráfico HTTP/HTTPS
+
 Identificación de headers faltantes
+
 Reconocimiento de recursos y endpoints públicos
